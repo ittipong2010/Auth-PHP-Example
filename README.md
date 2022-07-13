@@ -2,7 +2,8 @@
 PHP Example For KeyAuth Authentication System
 
 Set Application Name, OwnerID and Version in credentials.php and you're set.
-
+WebApi  https://www.egobot.tk/
+ 
 Video Tutorial:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hU6yXGR5R1Y
